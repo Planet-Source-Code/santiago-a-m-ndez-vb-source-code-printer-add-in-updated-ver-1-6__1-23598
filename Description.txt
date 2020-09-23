@@ -1,0 +1,9 @@
+This Add-In is usefull for every VB programmer, because It could be used each time that someone wants to print a source code contained in a form,class module and module, instead of the VB simple printing.
+
+What this vb add-in project provides is the option to print your current module or the selected text of it, in a formatted way to facilitate reading.  Optionaly you can print an index page of the sub/functions.  Also you can select a printer, define some printer properties as: orientation, print quality, tray, etc., using the print setup through API.
+
+I've not seen a VB project Add-In that prints source code in PSC before.
+
+* UPDATE *
+1. Select print quality	(through a combo box)
+2. Define printer margins	(left, top,  right, bootom)
